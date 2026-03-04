@@ -1,6 +1,6 @@
 # Entrega
 
-**Grupo Los Maquina**
+**Grupo Los Ritmocerontes Contraatacan **
 
 Santiago Perez Vicchi <https://github.com/santiago-perezvicchi10/Modulo1>
 
