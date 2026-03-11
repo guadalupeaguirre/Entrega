@@ -10,6 +10,8 @@ Maria Guadalupe Aguirre Simionato <https://github.com/gualupeaguirre/modulo1>
 
 Luciano sfragara <https://github.com/Luchos-fragara1/Modulo1>
 
-Joaquin Bordon 
+Joaquin Bordon <>
+
+Julian Zoia <>
 
 Ricardo Palma <>
