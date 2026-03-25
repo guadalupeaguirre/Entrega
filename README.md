@@ -1,8 +1,8 @@
 # Entrega
 
-**Grupo Clasica y Moderna **
+**Grupo Clasica y Moderna**
 
-**Integrantes del Grupo **
+**Integrantes del Grupo**
 
 Santiago Perez Vicchi <https://github.com/santiago-perezvicchi10/Modulo1>
 
