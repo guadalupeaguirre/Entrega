@@ -6,7 +6,7 @@
 
 Santiago Perez Vicchi <https://github.com/santiago-perezvicchi10/Modulo1>
 
-María Guadalupe Aguirre Simionato <https://github.com/gualupeaguirre/modulo1>
+María Guadalupe Aguirre Simionato <https://github.com/guadalupeaguirre/modulo1>
 
 Luciano sfragara <https://github.com/Luchos-fragara1/Modulo1>
 
