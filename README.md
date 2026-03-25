@@ -14,6 +14,8 @@ Joaquin Bordón <https://github.com/>
 
 Julián Zoia <https://github.com/julianzoia/modulo_1>
 
+Ignacio Molina <https://github.com/ignaciomolina14/modulo-1->
+
 ## Listado 
 
 | Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Modulo 1 |
