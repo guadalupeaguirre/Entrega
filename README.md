@@ -16,13 +16,16 @@ Julián Zoia <https://github.com/julianzoia/modulo_1>
 
 Ignacio Molina <https://github.com/ignaciomolina14/modulo-1->
 
+Hilario Cavalli <https://github.com/hilariocavalli/Modulo-1>
+
 ## Listado 
 
 | Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Modulo 1 |
 |---|---|---|---|---|
-| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 | 
-| Bordon | Joaquin | joaquinbordon@gmail.com | 1122498461 |
-| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com | 2615695075 |
-| Sfragara | Luciano Jesus | luciano.sfragara@gmail.com | 2615590955 |
-| Zoia | Julian Ignacio | julianzoia10@gmail.com | 2615651125 |
-| Molina | Ignacio | molinanacho03@gmail.com | 2615345768 |
+| Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 | https://github.com/guadalupeaguirre/modulo1 |
+| Bordon | Joaquin | joaquinbordon@gmail.com | 1122498461 | 
+| Perez Vicchi | Santiago | perezvicchisantiago@gmail.com | 2615695075 | https://github.com/santiago-perezvicchi10/Modulo1 |
+| Sfragara | Luciano Jesus | luciano.sfragara@gmail.com | 2615590955 | https://github.com/Luchos-fragara1/Modulo1 |
+| Zoia | Julian Ignacio | julianzoia10@gmail.com | 2615651125 | https://github.com/julianzoia/modulo_1 |
+| Molina | Ignacio | molinanacho03@gmail.com | 2615345768 | https://github.com/ignaciomolina14/modulo-1- |
+| Cavalli | Hilario | hilariomcavallic@gmail.com | 2615939657 | https://github.com/hilariocavalli/Modulo-1 |
