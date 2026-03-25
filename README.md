@@ -25,3 +25,4 @@ Ignacio Molina <https://github.com/ignaciomolina14/modulo-1->
 | Perez Vicchi | Santiago | perezvicchisantiago@gmail.com | 2615695075 |
 | Sfragara | Luciano Jesus | luciano.sfragara@gmail.com | 2615590955 |
 | Zoia | Julian Ignacio | julianzoia10@gmail.com | 2615651125 |
+| Molina | Ignacio | molinanacho03@gmail.com | 2615345768 |
