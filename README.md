@@ -1,8 +1,8 @@
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/d8ca831c-42a0-4f83-a117-ca8aa49235a2" />
 
-# Entrega
+# Listado
 
-**Grupo Clasica y Moderna**
+**Grupo Clásica y Moderna**
 
 **Integrantes del Grupo**
 
@@ -18,7 +18,7 @@ Julian Zoia <https://github.com/julianzoia/modulo_1>
 
 Ignacio Molina <https://github.com/ignaciomolina14/modulo-1->
 
-## Listado 
+## Entregas 
 
 **Entrega Módulo 1**
 
