@@ -53,7 +53,7 @@ Ignacio Molina <https://github.com/ignaciomolina14/modulo-1->
 
 **Entrega Módulo 4**
 
-| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Modulo 3 |
+| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Modulo 4 |
 |---|---|---|---|---|
 | Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 |https://github.com/guadalupeaguirre/Modulo-4| 
 | Bordon | Joaquin | joaquinbordon@gmail.com | 1122498461 | |
