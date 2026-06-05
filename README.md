@@ -20,7 +20,9 @@ Ignacio Molina <https://github.com/ignaciomolina14/modulo-1->
 
 ## Listado 
 
-| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Modulo 1 |
+**Entrega Módulo 1**
+
+| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Módulo 1 |
 |---|---|---|---|---|
 | Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 |https://github.com/guadalupeaguirre/modulo1| 
 | Bordon | Joaquin | joaquinbordon@gmail.com | 1122498461 |https://github.com/joaquinbordon-sys/Modulo_1|
@@ -31,7 +33,7 @@ Ignacio Molina <https://github.com/ignaciomolina14/modulo-1->
 
 **Entrega Módulo 2**
 
-| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Modulo 2 |
+| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Módulo 2 |
 |---|---|---|---|---|
 | Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 |https://github.com/guadalupeaguirre/Modulo-2| 
 | Bordon | Joaquin | joaquinbordon@gmail.com | 1122498461 | |
@@ -42,7 +44,7 @@ Ignacio Molina <https://github.com/ignaciomolina14/modulo-1->
 
 **Entrega Módulo 3**
 
-| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Modulo 3 |
+| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Módulo 3 |
 |---|---|---|---|---|
 | Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 |https://github.com/guadalupeaguirre/Modulo-3| 
 | Bordon | Joaquin | joaquinbordon@gmail.com | 1122498461 | |
@@ -53,7 +55,7 @@ Ignacio Molina <https://github.com/ignaciomolina14/modulo-1->
 
 **Entrega Módulo 4**
 
-| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Modulo 4 |
+| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Módulo 4 |
 |---|---|---|---|---|
 | Aguirre Simionato | Maria Guadalupe | mariaguadaaguirre29@gmail.com | 2612645040 |https://github.com/guadalupeaguirre/Modulo-4| 
 | Bordon | Joaquin | joaquinbordon@gmail.com | 1122498461 | |
